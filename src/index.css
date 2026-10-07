@@ -1,0 +1,2 @@
+:root { --ink: #20241e; --coral: #df654d; --sun: #f4c96e; --cream: #f3eee5; --sage: #cdd8c8; --line: #ddd8ce; --muted: #7a7c72; --sans: 'Trebuchet MS', sans-serif; --display: 'Arial Narrow', 'Trebuchet MS', sans-serif; --serif: Georgia, serif; color: var(--ink); background: var(--cream); font-family: var(--sans); font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; } html { scroll-behavior: smooth; } body { margin: 0; min-width: 320px; } button, a { font-family: inherit; }
